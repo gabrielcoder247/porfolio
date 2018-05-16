@@ -1,0 +1,14 @@
+
+.jumbotron{
+  text-align: center;
+  color: green;
+  background-color: #AED6F1;
+}
+.container{
+  background-color: #A2D9CE;
+}
+.jumbotron img{
+  width:200px;
+  height:300px;
+  float:right;
+}
